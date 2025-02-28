@@ -1,0 +1,14 @@
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\bin\Debug\net8.0\BlazorShop.Models.deps.json
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\bin\Debug\net8.0\BlazorShop.Models.runtimeconfig.json
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\bin\Debug\net8.0\BlazorShop.Models.dll
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\bin\Debug\net8.0\BlazorShop.Models.pdb
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.csproj.AssemblyReference.cache
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.AssemblyInfoInputs.cache
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.AssemblyInfo.cs
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.csproj.CoreCompileInputs.cache
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.dll
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\refint\BlazorShop.Models.dll
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.pdb
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\BlazorShop.Models.genruntimeconfig.cache
+E:\Projetos\BlazorShop\BlazorShop\BlazorShop.Models\obj\Debug\net8.0\ref\BlazorShop.Models.dll
